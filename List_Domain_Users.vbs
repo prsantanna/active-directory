@@ -1,6 +1,6 @@
 REM --------------------------------------------------------------------------------------------------------------------
 REM Script: List_Domain_Users.vbs - Lista informações a respeito dos usuários criados no Active Directory
-REM Na linha 14 altere domain.name pelo nome do seu domínio e na Linha 19 defina onde o arquivo com os dados dos usuários será salvo. Por padrão eu deixei d:\domain_users.htm
+REM Na linha 15 altere domain.name pelo nome do seu domínio e na Linha 19 defina onde o arquivo com os dados dos usuários será salvo. Por padrão eu deixei d:\domain_users.htm
 REM Contato: Paulo Roberto Sant´anna Cardoso (contato@paulosantanna.com)
 REM Compatibilidade: Windows Server 2008;Windows Server 2012;Windows Server 2016
 REM Blog: paulosantanna.com
