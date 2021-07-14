@@ -2,7 +2,7 @@
 # Script: List_Domain_Users.ps1 - Lista informações a respeito dos usuários criados no Active Directory e gera os arquivos Usuarios_do_AD.html e Usuarios_do_AD.csv no mesmo diretorio onde o script está armazenado
 # Na linha 15 altere Nome_do_Analista pelo nome do analista que está executando o script e na Linha 19 altere Nome_da_Empresa pelo nome da empresa em que o AD está instalado. Por padrão eu deixei d:\domain_users.htm
 # Contato: Paulo Roberto Sant´anna Cardoso (contato@paulosantanna.com)
-# Compatibilidade: Windows Server 2008;Windows Server 2012;Windows Server 2016;Windows Server 2019
+# Compatibilidade: Windows Server 2008;Windows Server 2012;Windows Server 2016;Windows Server 2019;
 # Blog: paulosantanna.com
 # ---------------------------------------------------------------------------------------------------------------------
 
